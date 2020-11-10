@@ -1,0 +1,55 @@
+body {
+    background: lightgreen;
+}
+
+td {
+    border: 1px solid black;
+    height: 30px;
+    width: 30px;
+}
+img {
+    width: 250px;
+}
+img:hover {
+    border: 5px solid black;
+}
+div {
+    width: 100%;
+    height: 100%;
+    background: red;
+}
+div {
+    width: 100%;
+    height: 100%;
+    background: red;
+}
+.myDiv0 {
+    width: 100%;
+    height: 100%;
+    background: pink;
+}
+.myDiv1 {
+    width: 100%;
+    height: 100%;
+    background: green;
+}
+.myDiv2 {
+    width: 100%;
+    height: 100%;
+    background:brown;
+}
+.myDiv3 {
+    width: 100%;
+    height: 100%;
+    background: yellow;
+}
+.myDiv4 {
+    width: 100%;
+    height: 100%;
+    background: purple;
+}
+.myDiv5 {
+    width: 100%;
+    height: 100%;
+    background: grey;
+}
